@@ -1,3 +1,3 @@
 int add(int a, int b) {
-  return (a + b);//just for tesing modified sanjeeva
+  return (a + b);//just for tesing modified
 }
